@@ -1,0 +1,13 @@
+div {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  background-color: red;
+  transition-property: top left;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
