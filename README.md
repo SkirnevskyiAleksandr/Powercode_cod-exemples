@@ -1,7 +1,7 @@
 # cod-exemples
 
-21. заставка экрана, если пользователь долго бездействует(асинхронный код)
-22. есть два файла:
+21. заставка экрана, если пользователь долго бездействует(асинхронный код)[video](https://www.youtube.com/watch?v=ZTEtrIH6IeE&t=4s)
+22. есть два файла: [video](https://www.youtube.com/watch?v=PcvGoqrZQgQ&t=1s)
 
     > users - список всех пользователей, у каждого юзера есть:("id";"name";"username";"email";"address";"phone";"website";"company")  
     > posts - список всех имеющихся постов, в каждом посте есть:
@@ -11,3 +11,7 @@
     > 2 в этом списке под каждым юзером сделать ссылку только на посты этого юзера(users.id===posts.userId);  
     > 3 так же сделть ссылку на все посты, отобразить только posts.body and posts.title;  
     > 4 на странице со всеми постами сделать возможность фильтрования постов содержащих введеное значение;
+
+23 request loader [video](https://www.youtube.com/watch?v=11joYTiuMlA&t=1s)
+
+> (we can see how many our file`s baits are downloaded at this moment)
