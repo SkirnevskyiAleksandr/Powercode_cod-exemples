@@ -56,5 +56,4 @@ app.use(express.static(__dirname + '/public'))
     пойдет дальше по цепочке)*/
 
 
-app
 app.listen(3000) // listening  server on 3000-port
