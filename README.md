@@ -1,7 +1,10 @@
 # cod-exemples
 
-21. заставка экрана, если пользователь долго бездействует(асинхронный код)[video](https://www.youtube.com/watch?v=ZTEtrIH6IeE&t=4s)
-22. есть два файла: [video](https://www.youtube.com/watch?v=PcvGoqrZQgQ&t=1s)
+12. capitalise, возв в степень, палиндром, факториал, случайное число, конвертор величин
+    [video](https://www.youtube.com/watch?v=s0aCpqHXr0U&t=1s)
+
+13. заставка экрана, если пользователь долго бездействует(асинхронный код)[video](https://www.youtube.com/watch?v=ZTEtrIH6IeE&t=4s)
+14. есть два файла: [video](https://www.youtube.com/watch?v=PcvGoqrZQgQ&t=1s)
 
     > users - список всех пользователей, у каждого юзера есть:("id";"name";"username";"email";"address";"phone";"website";"company")  
     > posts - список всех имеющихся постов, в каждом посте есть:
@@ -28,3 +31,5 @@
 29 Chat [video](https://www.youtube.com/watch?v=g7tPBOMQOMM&t=917s)
 
 > Чат с использованием технологии "long boolin"(длинный запрос). Когда поступает ГЕТ запрос, ответ сразу не передается, а записывается в массив(собираем людей которые подключены и от которых идут ГЕТ запросы(они отправляются автоматически), и только после поступления ПОСТ запроса, отправляется ответ на все ГЕТ запросы).
+
+[Webpack-for-begginers](https://medium.com/nuances-of-programming/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-webpack-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%BE%D0%B2-6cafbf562386)
